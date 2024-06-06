@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Site Wikipedia (Marca-passo)</title>
+</head>
+
+<body>
+    <nav>
+
+        <img src="/img/Logo. Marca-passo.png" alt="Logo Marca-passo">
+
+    </nav>
+
+
+    <header>
+
+        <ul>
+            <li><a href="#Artigo">Artigo</a></li>
+            <li><a href="#Indicações">Indicações</a></li>
+            <li><a href="#Explicações sobre Marca-passo">Explicações sobre Marca-passo</a></li>
+            <li><a href="#Referência">Referência</a></li>
+
+        </ul>
+    </header>
+
+    <main>
+        <section>
+            <h1 class="content">Marca-passo</H1>
+
+            <h2 id="Artigo">Artigo</h2>
+
+            <p><strong>Marca-passo</strong>, <strong>marcapasso</strong> ou <strong>pacemaker</strong> é um dispositivo
+                médico implantável que tem o objetivo de regular
+                os batimentos cardíacos. Isto é conseguido através de um estímulo elétrico emitido pelo dispositivo
+                quando o
+                número de batimentos em um certo intervalo de tempo está abaixo do normal, por algum problema na
+                condução do
+                estímulo natural do coração pelo seus tecidos antes de atingir os ventrículos.</p>
+
+            <p>Os primeiros aparelhos marca-passo eram externos e de certa forma perigosos pois poderiam potencialmente
+                eletrocutar seu portador. Atualmente o tamanho do aparelho foi reduzido e pode ser implantado no corpo
+                do
+                paciente pois é selado hermeticamente numa cápsula de metal e possui pilhas recarregáveis através de
+                terminais externos. As baterias dos marca passos implantáveis não são recarregáveis, apenas as dos marca
+                passos externos que são substituídas.</p>
+
+            <p>Sua cápsula externa em geral é feita de <strong>titânio</strong> por ser um material fisiologicamente
+                inerte,
+                o que reduz o
+                risco de rejeição pelo <strong>sistema imunológico.</strong></p>
+
+            <h2 id="Indicações">Indicações</h2>
+
+            <p>O marcapasso cardíaco é indicado para condições que alteram os batimentos do coração, como a bradicardia
+                em que o ritmo fica irregular e lento.
+
+                As enfermidades que geram esse problema costumam ser:</p>
+            <br>
+
+
+            <ol>
+
+                <li>Bloqueio Atrioventricular</li>
+                <li>Insuficiência Cardiaca Grave</li>
+                <li>Doença do Nó Sinusal</li>
+                <li>Doença Cardíaca Congênita</li>
+
+            </ol>
+
+            <figure class="Marca-passo">
+                <img src="/img/Marca-passo.jpg" alt="Marca-passo" width="300px">
+            </figure>
+
+            <h2 id="Explicações sobre Marca-passo">Explicações sobre Marca-passo</h2>
+
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/WhLDabUHJiM?si=bhWX9bMM5yAO5Pph"
+                title="YouTube video player" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+        </section>
+    </main>
+
+    <footer>
+        <h2 id="Referência">Referência</h2>
+
+        <a href="https://pt.wikipedia.org/wiki/Marca-passo"><strong>Wikipédia Marca-passo</strong></a>
+        <a href="https://unicardio.com.br/artigos/marcapasso-cardiaco-para-que-serve-e-quando-e-indicado/"><strong>Indicações do
+            Marca-passo</strong></a>
+            <a href="https://www.youtube.com/watch?v=WhLDabUHJiM"><strong>YouTube</strong></a>
+    </footer>
+
+</body>
+
+</html>
